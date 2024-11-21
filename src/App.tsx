@@ -17,6 +17,7 @@ import useTheme from './hooks/useTheme';
 // eslint-disable-next-line import/no-unresolved
 import { TRACKING } from '@env';
 import { useSetupVIP } from './hooks/useVIP';
+import FpsCounter from './components/commonui/fpsCounter';
 
 if (TRACKING) {
   Sentry.init({
@@ -90,6 +91,7 @@ export default function App(appProps: NoxComponent.AppProps) {
     <GestureHandlerRootView style={styles.gestureContainer}>
       <MainBackground>
         <SafeAreaProvider>
+          <FpsCounter visible={true} />
           <APM PIP={PIPMode} isLandscape={isLandscape} />
         </SafeAreaProvider>
       </MainBackground>
