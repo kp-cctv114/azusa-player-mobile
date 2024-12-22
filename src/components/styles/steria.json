@@ -2894,3 +2894,79 @@
     }
   }
 ]
+"metaData": {
+      "themeName": "响爷播放器",
+      "themeDesc": "",
+      "themeAuthor": "kp-cctv114",
+      "themeIcon": "https://upload-bbs.miyoushe.com/upload/2023/08/07/158965904/2ade0a57954b9c296fdf7d02e9ec8f54_5362530399924443594.png",
+      "darkTheme": true
+    },
+    "gifs": [https://i0.hdslb.com/bfsarticle/d71b19b71658dbfb47ec422033da50e80f545cf2.png
+    https://i0.hdslb.com/bfs/article/e86c1ac08fbc404ab618b3c20f70470c490b4802.png
+    https://i0.hdslb.com/bfs/article/8035d48e89d1bddcb33b950070c5f428ccff9e15.png
+    https://i0.hdslb.com/bfs/article/ec9d7f17b901f002af00de748174f16af552a01b.png
+    https://i0.hdslb.com/bfs/article/3c4669dc4a478ddb73190c414c35ecef9639e15d.png
+    https://i0.hdslb.com/bfs/article/a725ac993cbec5fc7bdef94157f30db4a5d94f65.png
+    https://i0.hdslb.com/bfs/article/4c749c63d4f47b12c1970e648489bcda67a0eb62.png
+    https://i0.hdslb.com/bfs/article/3068884ca2890113091ca6f6a31c7df016844742.png
+    https://i0.hdslb.com/bfs/article/ab6acfaad5af5a6fa1bc279965e91e832047e11e.png
+
+    ],
+    "backgroundImages": [https://tvax2.sinaimg.cn/large/7e8b4ac8ly1huhs5rdnppj22483z4kjm.jpg],
+    "backgroundImagesLandscape": [https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/4e4a20a4462309f7e770251f7a0e0cf3d7cad6a4.jpg],
+    "customColors": {
+      "maskedBackgroundColor": "rgba(0, 0, 0, 0.10)",
+      "playlistDrawerBackgroundColor": "rgba(255, 0, 0, 0.35)",
+      "playlistDrawerBackgroundColorTransparent": "rgba(255, 0, 0, 0.35)",
+      "progressThumbTintColor": "#f2003c",
+      "progressMinimumTrackTintColor": "#f2003c",
+      "progressMaximumTrackTintColor": "#FFFFFF",
+      "btnBackgroundColor": "rgb(72, 71, 58)",
+      "textInputSelectionColor": "lightgreen"
+    },
+    "colors": {
+      "primary": "rgb(180, 205, 205)",
+      "onPrimary": "rgb(255,105,170)",
+      "primaryContainer": "rgb(30, 30, 30)",
+      "onPrimaryContainer": "rgb(234, 234, 0)",
+      "secondary": "rgb(157, 157, 157)",
+      "onSecondary": "rgb(50, 50, 24)",
+      "secondaryContainer": "rgb(73, 72, 45)",
+      "onSecondaryContainer": "rgb(231, 228, 191)",
+      "tertiary": "rgb(164, 208, 189)",
+      "onTertiary": "rgb(11, 55, 42)",
+      "tertiaryContainer": "rgb(37, 78, 64)",
+      "onTertiaryContainer": "rgb(191, 236, 216)",
+      "error": "rgb(255, 180, 171)",
+      "onError": "rgb(105, 0, 5)",
+      "errorContainer": "rgb(147, 0, 10)",
+      "onErrorContainer": "rgb(255, 180, 171)",
+      "background": "rgba(0,0,0, 0.6)",
+      "onBackground": "rgb(230, 226, 217)",
+      "surface": "rgb(28, 28, 23)",
+      "onSurface": "rgb(233, 233, 233)",
+      "text": "rgb(233, 233, 233)",
+      "surfaceVariant": "rgb(10, 10, 10)",
+      "onSurfaceVariant": "rgb(157, 157, 157)",
+      "outline": "rgb(147, 145, 130)",
+      "outlineVariant": "rgb(72, 71, 58)",
+      "shadow": "rgb(0, 0, 0)",
+      "scrim": "rgb(0, 0, 0)",
+      "inverseSurface": "rgb(230, 226, 217)",
+      "inverseOnSurface": "rgb(49, 49, 43)",
+      "inversePrimary": "rgb(98, 98, 0)",
+      "elevation": {
+        "level0": "transparent",
+        "level1": "rgb(53, 56, 57)",
+        "level2": "rgb(10, 10, 10)",
+        "level3": "rgb(10, 10, 10)",
+        "level4": "rgb(49, 49, 20)",
+        "level5": "rgb(53, 53, 20)"
+      },
+      "surfaceDisabled": "rgba(230, 226, 217, 0.12)",
+      "onSurfaceDisabled": "rgba(230, 226, 217, 0.38)",
+      "backdrop": "rgba(49, 49, 37, 0.4)"
+    },
+    "playerControlIconContained": "contained"
+  },
+  {
